@@ -1,0 +1,6 @@
+- id: jsonschema-on-yaml
+  name: jsonschema-on-yaml
+  description: Validate yaml files via jsonschema
+  entry: jsonschema-on-yaml
+  language: python
+  language_version: python3
